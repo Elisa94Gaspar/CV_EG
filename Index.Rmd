@@ -1,0 +1,69 @@
+---
+title: "CV_Elisa_Gaspar"
+author: "Elisa Gaspar"
+date: "2024-04-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Curriculum Vitae
+
+### Datos personales
+
+![Foto](20240313_191943_edit.jpg){width=20%}
+
+
+
+
+
+
+
+### Formación
+
+- Licenciatura en Geología. Universidad Nacional de Río Negro. 2023
+- Diplomado en Geociencias. Universidad Nacional de Río Negro. 2019
+
+
+### Cursos
+
+- Escuela de verano Red ChArCo. Estudio microbiológico y molecular de los recursos hídricos continentales de la Patagonia. Universidad Nacional de Río Negro-Universidad de San Sebastián. 2024
+
+- Phyton. Pensar con datos. Instituto de Formación Política y Gestión Pública. 2023
+
+- Curso de inglés nivel pre-intermedio. Patagonian English Institute. 2023
+
+- Geología aplicada al diseño de presas. Asociación Argentina de Geología Aplicada a la Ingeniería. 2023
+
+- Taller Principios básicos de Geoestadística. Facultad de Ciencias Exactas y Físicas Naturales. Colegio Profesional de Geólogos de la Provincia de Córdoba. 2022
+
+- Curso de formación en Ambiente, Higiene y Seguridad laboral en la industria del Petróleo y Gas. UNRN-YPF. 2021
+
+- Curso de Sensores Remotos y su aplicación en Geología. UBA. 2021
+
+- Taller de Morfometría aplicado a Geociencias. Colegio Profesional de Geólogos de la Provincia de Córdoba. 2021
+
+- Taller Introducción a los Sistemas de Información Geográfica utilizando QGIS. Centro argentino de cartografía. 2021
+
+- Taller de Procesamiento de Imágenes Multiespectrales Sentinel 2 con SNAP. Centro argentino de cartografía. 2021
+
+- OIL & GAS from exploration to distribution. IFP School-Fundación YPF. 2019
+
+
+
+### Experiencia laboral
+
+ Desde | Hasta| Cargo | Lugar de trabajo | 
+|-------:|:------|:-----------:|:---------:| 
+| Diciembre 2023 | Febrero 2024 | Profesora de física | CENS N°22 | 
+| Septiembre 2023| Noviembre 2023 | Profesora de física | ESRN N° 116 | 
+| Junio 2021 | Agosto 2021 | Pasante | Revista de la Asociación Geológica Argentina
+
+
+### Contacto
+
+- Correo <elisagaspar994@gmail.com>
+- Celular ***2984128060***
+- LinkedIn <https://www.linkedin.com/in/elisagaspar/>
